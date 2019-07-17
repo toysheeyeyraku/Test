@@ -10,6 +10,7 @@ namespace xz
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("666");
         }
     }
 }
