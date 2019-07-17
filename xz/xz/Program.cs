@@ -13,6 +13,7 @@ namespace xz
             Console.WriteLine("666");
             Console.WriteLine("It Is My Life");
             Console.WriteLine("HI ZIGFRID");
+            Console.ReadKey();
         }
     }
 }

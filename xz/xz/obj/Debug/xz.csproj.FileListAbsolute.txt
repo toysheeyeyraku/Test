@@ -1,0 +1,7 @@
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\bin\Debug\xz.exe.config
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\bin\Debug\xz.exe
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\bin\Debug\xz.pdb
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\obj\Debug\xz.csprojAssemblyReference.cache
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\obj\Debug\xz.csproj.CoreCompileInputs.cache
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\obj\Debug\xz.exe
+C:\CommonFiles\BigProjects\dracaris\Test\xz\xz\obj\Debug\xz.pdb
